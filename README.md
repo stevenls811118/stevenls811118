@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steven Shi</h1>
-<h3 align="center">A Junior Full-Stack Web Developer eager to expand my professional horizons. I've recently graduated from the Lighthouse Labs Full-stack Web Development bootcamp and I'm now seeking the chance to apply my freshly acquired skills.</h3>
+<h1 align="center"><a href="">Hi 👋, I'm Steven Shi</a></h1>
+<h3 align="center"><a href="">A Junior Full-Stack Web Developer eager to expand my professional horizons. I've recently graduated from the Lighthouse Labs Full-stack Web Development bootcamp and I'm now seeking the chance to apply my freshly acquired skills.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenls811118&label=Profile%20views&color=0e75b6&style=flat" alt="stevenls811118" /> </p>
 
