@@ -1,4 +1,4 @@
-## [Hi there 👋 I'm Steven Shi.]
+## [Hi there 👋 I'm Steven Shi.]()
 A Junior Full-Stack Web Developer eager to expand my professional horizons. I've recently graduated from the Lighthouse Labs Full-stack Web Development bootcamp and I'm now seeking the chance to apply my freshly acquired skills.
 
 Here are some ideas to get you started:
